@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Bricolage Grotesque", serif;    
+}
+
+ul, p, h5, h2{
+    margin: 0;
+    padding: 0;
+}
+
+.container, .row{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+body{
+    width: 100%;
+}
+a{
+    text-decoration: none;
+    color: #FFF;
+}

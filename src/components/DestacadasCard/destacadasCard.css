@@ -1,0 +1,42 @@
+.card{
+    width: 24em;
+    padding: 5px;
+    border-radius: 10px;
+    filter: drop-shadow(7px 7px 2px #5757f134);
+}
+.card-title{
+    font-size: 20px;
+}
+.card-price{
+    font-size: 24px;
+}
+
+.description__Container, .squareMt__Container, .ambients__Container, .bath__Container{
+    display: flex;
+    flex-direction: row;
+    font-size: 18px;
+}
+.mt-description, .bath-description{
+    padding-left: 5px;
+}
+.description__Container{
+    gap: 20px;
+}
+.icon-description{
+    width: 20px;
+    height: 20px;
+}
+.card-text{
+    font-size: 18px;
+    line-height: 20px;
+}
+@media (max-width: 1200px) {
+    .card{
+        width: 20em;
+    }   
+}
+@media (max-width: 576px){
+    .card{
+        width: 18em;
+    }
+}

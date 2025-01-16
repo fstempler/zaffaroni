@@ -1,0 +1,65 @@
+.soluciones__MainContainer{
+    background-image: url('../../assets/soluciones-back.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 70vh;
+    width: 100%;
+    display: flex;  
+    justify-content: center;  
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+}
+.soluciones__TitleContainer{
+    width: 1200px;
+}
+.soluciones__PreTitle{
+    font-size: 34px;
+    font-weight: bold;
+}
+.soluciones__Title{
+    font-size: 64px;
+    font-weight: bold;
+}
+.soluciones__CardContainer{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 20px;
+    width: 1200px;
+}
+@media (max-width: 1200px) {
+    .soluciones__TitleContainer{
+        width: 100%;
+    }
+    .soluciones__MainContainer{        
+        background-position: center;        
+        height: 100%;
+        padding: 20px;
+    }
+    .soluciones__CardContainer{        
+        justify-content: center;        
+        width: 100%;
+    }
+}
+@media (max-width: 576px) {
+    .soluciones__MainContainer{
+        height: 100%;
+        background-position: center;
+        padding: 10px;
+        background-color: #fff;
+    }
+    .soluciones__TitleContainer{        
+        padding: 10px;
+    }
+    .soluciones__PreTitle{
+        font-size: 24px;        
+    }
+    .soluciones__Title{
+        font-size: 44px;        
+    }    
+    .soluciones__CardContainer{        
+        width: 100%;
+        justify-content: center;
+    }
+}

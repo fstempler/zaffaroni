@@ -1,0 +1,67 @@
+.tierras__MainContainer{
+    display: flex;
+    background-color: #12156C;
+    background-image: url('../../assets/tierras-back.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60vh;
+    width: 100%;
+    justify-content: center;        
+}
+.colContainer{
+    display: flex;
+}
+.tierras__TextContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    align-content: flex-end;
+    gap: 20px;    
+}
+.tierras__Title{
+    font-size: 64px;
+    font-weight: bold;
+    text-align: end;
+    color: #fff;
+}
+.tierras__Text{
+    font-size: 18px;
+    font-weight: 500;
+    text-align: end;
+    color: #fff;
+}
+@media (max-width: 1400px) {
+    .tierras__MainContainer{                
+        padding: 20px;
+    }
+}
+@media (max-width: 992px) {
+    .tierras__MainContainer{                
+        padding: 20px;
+    }
+}
+@media (max-width: 768px) {
+    .tierras__MainContainer{                
+        padding: 30px;
+    }
+}
+@media (max-width: 576px) {
+    .tierras__MainContainer{        
+        height: 100%;
+        padding: 20px;
+    }
+    .tierras__TextContainer{        
+        align-items: center;                
+    }
+    .tierras__Title{
+        font-size: 44px;      
+        line-height: 46px;  
+        text-align: center;
+    }
+    .tierras__Text{
+        font-size: 16px;        
+        line-height: 18px; 
+        text-align: center; 
+    }   
+}

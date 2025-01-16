@@ -1,0 +1,41 @@
+.lisandro__MainContainer{
+    background-color: #12156C25;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 20px;
+}
+.lisando__Logo-Container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+.lisandro__Works-Container{
+    display: flex;
+    width: 100%;
+    margin: 0 auto;
+    padding: 10px;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+}
+.lZaffaroniObra{
+    display: block;
+    width: 45%;
+    height: auto;
+}
+
+@media (max-width: 576px) {        
+    .lZaffaroniLogo{
+        width: 100%;
+    }
+    .lisandro__Works-Container{        
+        flex-wrap: nowrap;        
+        flex-direction: column;
+    }
+    .lZaffaroniObra{
+        width: 100%;
+    }
+}

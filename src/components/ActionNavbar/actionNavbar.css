@@ -1,0 +1,49 @@
+.actionNavbar__Container{
+    background-color: #12156C;
+    color: #FFF;
+    width: 50%;
+    border-radius: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80px;    
+    z-index: 100;
+    margin-top: -40px;
+}
+.actionNavbar {
+    width: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+}
+.actionNavbar li{
+    display: inline;    
+    margin: 20px;
+}
+@media (max-width: 1200px) {
+    .actionNavbar__Container{        
+        width: 90%;        
+        height: 60px;            
+    }
+    .actionNavbar {        
+        gap: 30px;
+    }
+}
+@media (max-width: 576px) {    
+    .actionNavbar__Container{        
+        width: 95%;                
+        padding: 15px;
+    }
+    .actionNavbar {                
+        gap: 5px;
+    }
+    .actionNavbar li{
+        display: inline;            
+        font-size: 12px;    
+        vertical-align: middle;    
+    }
+    .actionNavbar li p{
+        text-align: center;        
+    }
+}

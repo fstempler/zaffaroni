@@ -1,0 +1,11 @@
+.btnRedBorder__Container{
+    background-color: #FFF;
+    width: 100px;
+    text-align: center;
+    padding: 5px;
+    border: solid 1px #AF1717;
+    border-radius: 8px;    
+}
+.btnRedBorder__Text{
+    font-size: 16px;
+}

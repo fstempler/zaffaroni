@@ -1,0 +1,1424 @@
+[
+    {
+        "id": "1",
+        "nombre": "Casa Moderna A",
+        "categoria": "Casas",
+        "ubicaci\u00f3n": "Villa Urquiza",
+        "precio": 180000,
+        "estado": "Venta",
+        "superficie": 150,
+        "habitaciones": 3,
+        "ba\u00f1os": 2,
+        "descripci\u00f3n": "Casa moderna de dise\u00f1o \u00fanico con patio interno y terraza.",
+        "imagen": [
+          "public/casas/C1-A.webp",
+          "public/casas/C1-B.webp",
+          "public/casas/C1-C.webp"
+        ]
+    },
+    {
+        "id": "2",
+        "nombre": "Casa Cl\u00e1sica B",
+        "categoria": "Casas",
+        "ubicaci\u00f3n": "Caballito",
+        "precio": 200000,
+        "estado": "Venta",
+        "superficie": 200,
+        "habitaciones": 4,
+        "ba\u00f1os": 3,
+        "descripci\u00f3n": "Casa amplia con jard\u00edn, piscina y cochera para dos autos.",
+        "imagen": [
+          "public/casas/C2-A.webp",
+          "public/casas/C2-B.webp",
+          "public/casas/C2-C.webp"
+        ]
+    },
+    {
+        "id": "3",
+        "nombre": "Casa de Campo C",
+        "categoria": "Casas",
+        "ubicaci\u00f3n": "Tigre",
+        "precio": 250000,
+        "estado": "Venta",
+        "superficie": 300,
+        "habitaciones": 5,
+        "ba\u00f1os": 4,
+        "descripci\u00f3n": "Casa estilo campo con amplio terreno y acceso al r\u00edo.",
+        "imagen": [
+          "public/casas/C3-A.webp",
+          "public/casas/C3-B.webp",
+          "public/casas/C3-C.webp"
+        ]
+    },
+    {
+        "id": "4",
+        "nombre": "Casa Minimalista D",
+        "categoria": "Casas",
+        "ubicaci\u00f3n": "Palermo",
+        "precio": 220000,
+        "estado": "Alquiler",
+        "superficie": 180,
+        "habitaciones": 3,
+        "ba\u00f1os": 2,
+        "descripci\u00f3n": "Dise\u00f1o moderno con espacios abiertos y detalles de lujo.",
+        "imagen": [
+          "public/casas/C4-A.webp",
+          "public/casas/C4-B.webp",
+          "public/casas/C4-C.webp"
+        ]
+    },
+    {
+        "id": "5",
+        "nombre": "Casa con Jard\u00edn E",
+        "categoria": "Casas",
+        "ubicaci\u00f3n": "Belgrano",
+        "precio": 190000,
+        "estado": "Alquiler",
+        "superficie": 160,
+        "habitaciones": 3,
+        "ba\u00f1os": 3,
+        "descripci\u00f3n": "Casa en esquina con jard\u00edn y parrilla integrada.",
+        "imagen": [
+          "public/casas/C5-A.webp",
+          "public/casas/C5-B.webp",
+          "public/casas/C5-C.webp"
+        ]
+    },
+    {
+        "id": "6",
+        "nombre": "Casa Estilo Mediterr\u00e1neo F",
+        "categoria": "Casas",
+        "ubicaci\u00f3n": "Recoleta",
+        "precio": 300000,
+        "estado": "Alquiler",
+        "superficie": 220,
+        "habitaciones": 4,
+        "ba\u00f1os": 3,
+        "descripci\u00f3n": "Casa con detalles mediterr\u00e1neos y vista panor\u00e1mica.",
+        "imagen": [
+          "public/casas/C6-A.webp",
+          "public/casas/C6-B.webp",
+          "public/casas/C6-C.webp"
+        ]
+    },
+    {
+        "id": "7",
+        "nombre": "Casa Familiar G",
+        "categoria": "Casas",
+        "ubicaci\u00f3n": "Barracas",
+        "precio": 150000,
+        "estado": "Alquiler",
+        "superficie": 140,
+        "habitaciones": 3,
+        "ba\u00f1os": 2,
+        "descripci\u00f3n": "Casa acogedora ideal para familias con ni\u00f1os.",
+        "imagen": [
+          "public/casas/C7-A.webp",
+          "public/casas/C7-B.webp",
+          "public/casas/C7-C.webp"
+        ]
+    },
+    {
+        "id": "8",
+        "nombre": "Casa R\u00fastica H",
+        "categoria": "Casas",
+        "ubicaci\u00f3n": "San Isidro",
+        "precio": 240000,
+        "estado": "Venta",
+        "superficie": 250,
+        "habitaciones": 5,
+        "ba\u00f1os": 4,
+        "descripci\u00f3n": "Casa r\u00fastica con amplio terreno y detalles en madera.",
+        "imagen": [
+          "public/casas/C8-A.webp",
+          "public/casas/C8-B.webp",
+          "public/casas/C8-C.webp"
+        ]
+    },
+    {
+        "id": "9",
+        "nombre": "Casa Inteligente I",
+        "categoria": "Casas",
+        "ubicaci\u00f3n": "Villa Crespo",
+        "precio": 350000,
+        "estado": "Venta",
+        "superficie": 200,
+        "habitaciones": 4,
+        "ba\u00f1os": 3,
+        "descripci\u00f3n": "Casa inteligente con sistema dom\u00f3tico y energ\u00eda solar.",
+        "imagen": [
+          "public/casas/C9-A.webp",
+          "public/casas/C9-B.webp",
+          "public/casas/C9-C.webp"
+        ]
+    },
+    {
+        "id": "10",
+        "nombre": "Lote Residencial A",
+        "categoria": "Lote",
+        "ubicaci\u00f3n": "Barrio Norte",
+        "precio": 60000,
+        "estado": "Venta",
+        "superficie": 250,
+        "habitaciones": 0,
+        "ba\u00f1os": 0,
+        "descripci\u00f3n": "Lote ideal para desarrollo residencial en un barrio tranquilo.",
+        "imagen": [
+          "public/lotes/L1.webp"          
+        ]
+    },
+    {
+        "id": "11",
+        "nombre": "Lote Comercial B",
+        "categoria": "Lote",
+        "ubicaci\u00f3n": "Palermo",
+        "precio": 100000,
+        "estado": "Venta",
+        "superficie": 300,
+        "habitaciones": 0,
+        "ba\u00f1os": 0,
+        "descripci\u00f3n": "Ubicaci\u00f3n estrat\u00e9gica para locales comerciales en una zona transitada.",
+        "imagen": [
+          "public/lotes/L2.webp"          
+        ]
+    },
+    {
+        "id": "12",
+        "nombre": "Lote Amplio C",
+        "categoria": "Lote",
+        "ubicaci\u00f3n": "Belgrano",
+        "precio": 90000,
+        "estado": "Venta",
+        "superficie": 350,
+        "habitaciones": 0,
+        "ba\u00f1os": 0,
+        "descripci\u00f3n": "Lote amplio en esquina, perfecto para un proyecto multifamiliar.",
+        "imagen": [
+          "public/lotes/L3.webp"          
+        ]
+    },
+    {
+        "id": "13",
+        "nombre": "Lote Rural D",
+        "categoria": "Lote",
+        "ubicaci\u00f3n": "Provincia de Buenos Aires",
+        "precio": 50000,
+        "estado": "Venta",
+        "superficie": 400,
+        "habitaciones": 0,
+        "ba\u00f1os": 0,
+        "descripci\u00f3n": "Lote rural con f\u00e1cil acceso, ideal para un emprendimiento agr\u00edcola.",
+        "imagen": [
+          "public/lotes/L4.webp"          
+        ]
+    },
+    {
+        "id": "14",
+        "nombre": "Lote Central E",
+        "categoria": "Lote",
+        "ubicaci\u00f3n": "Microcentro",
+        "precio": 150000,
+        "estado": "Venta",
+        "superficie": 200,
+        "habitaciones": 0,
+        "ba\u00f1os": 0,
+        "descripci\u00f3n": "Lote en el coraz\u00f3n de la ciudad, excelente para desarrollos comerciales.",
+        "imagen": [
+          "public/lotes/L5.webp"          
+        ]
+    },
+    {
+        "id": "15",
+        "nombre": "Lote Residencial F",
+        "categoria": "Lote",
+        "ubicaci\u00f3n": "Villa Urquiza",
+        "precio": 75000,
+        "estado": "Venta",
+        "superficie": 250,
+        "habitaciones": 0,
+        "ba\u00f1os": 0,
+        "descripci\u00f3n": "Lote en zona residencial con todos los servicios disponibles.",
+        "imagen": [
+          "public/lotes/L6.webp"          
+        ]
+    },
+    {
+        "id": "16",
+        "nombre": "Lote Frente al R\u00edo G",
+        "categoria": "Lote",
+        "ubicaci\u00f3n": "Tigre",
+        "precio": 120000,
+        "estado": "Venta",
+        "superficie": 300,
+        "habitaciones": 0,
+        "ba\u00f1os": 0,
+        "descripci\u00f3n": "Lote \u00fanico frente al r\u00edo, perfecto para un desarrollo tur\u00edstico.",
+        "imagen": [
+          "public/lotes/L7.webp"          
+        ]
+    },
+    {
+        "id": "17",
+        "nombre": "Lote Industrial H",
+        "categoria": "Lote",
+        "ubicaci\u00f3n": "Avellaneda",
+        "precio": 80000,
+        "estado": "Venta",
+        "superficie": 400,
+        "habitaciones": 0,
+        "ba\u00f1os": 0,
+        "descripci\u00f3n": "Lote en zona industrial con acceso a rutas principales.",
+        "imagen": [
+          "public/lotes/L8.webp"          
+        ]
+    },
+    {
+        "id": "18",
+        "nombre": "Lote en Altura I",
+        "categoria": "Lote",
+        "ubicaci\u00f3n": "Villa Crespo",
+        "precio": 95000,
+        "estado": "Venta",
+        "superficie": 220,
+        "habitaciones": 0,
+        "ba\u00f1os": 0,
+        "descripci\u00f3n": "Lote en altura con vistas despejadas y excelente potencial constructivo.",
+        "imagen": [
+          "public/lotes/L9.webp"          
+        ]
+    },
+    {
+        "id": "19",
+        "nombre": "Departamento Monoambiente A",
+        "categoria": "Departamento",
+        "ubicaci\u00f3n": "Recoleta",
+        "precio": 80000,
+        "estado": "Venta",
+        "superficie": 45,
+        "habitaciones": 1,
+        "ba\u00f1os": 1,
+        "descripci\u00f3n": "Monoambiente en edificio moderno con amenities y excelente ubicaci\u00f3n.",
+        "imagen": [
+          "public/departamentos/D1-A.webp",
+          "public/departamentos/D1-B.webp",
+          "public/departamentos/D1-C.webp"
+        ]
+    },
+    {
+        "id": "20",
+        "nombre": "Departamento 2 Ambientes B",
+        "categoria": "Departamento",
+        "ubicaci\u00f3n": "Palermo",
+        "precio": 120000,
+        "estado": "Venta",
+        "superficie": 65,
+        "habitaciones": 2,
+        "ba\u00f1os": 1,
+        "descripci\u00f3n": "Departamento luminoso con balc\u00f3n y cocina integrada.",
+        "imagen": [
+          "public/departamentos/D2-A.webp",
+          "public/departamentos/D2-B.webp",
+          "public/departamentos/D2-C.webp"
+        ]
+    },
+    {
+        "id": "21",
+        "nombre": "Departamento Familiar C",
+        "categoria": "Departamento",
+        "ubicaci\u00f3n": "Belgrano",
+        "precio": 150000,
+        "estado": "Venta",
+        "superficie": 90,
+        "habitaciones": 3,
+        "ba\u00f1os": 2,
+        "descripci\u00f3n": "Amplio departamento con cochera y seguridad 24hs.",
+        "imagen": [
+          "public/departamentos/D3-A.webp",
+          "public/departamentos/D3-B.webp",
+          "public/departamentos/D3-C.webp"
+        ]
+    },
+    {
+        "id": "22",
+        "nombre": "Departamento de Lujo D",
+        "categoria": "Departamento",
+        "ubicaci\u00f3n": "Puerto Madero",
+        "precio": 300000,
+        "estado": "Venta",
+        "superficie": 150,
+        "habitaciones": 4,
+        "ba\u00f1os": 3,
+        "descripci\u00f3n": "Departamento de lujo con vista al r\u00edo y amenities premium.",
+        "imagen": [
+          "public/departamentos/D4-A.webp",
+          "public/departamentos/D4-B.webp",
+          "public/departamentos/D4-C.webp"
+        ]
+    },
+    {
+        "id": "23",
+        "nombre": "Departamento Loft E",
+        "categoria": "Departamento",
+        "ubicaci\u00f3n": "San Telmo",
+        "precio": 100000,
+        "estado": "Venta",
+        "superficie": 70,
+        "habitaciones": 1,
+        "ba\u00f1os": 1,
+        "descripci\u00f3n": "Loft estilo industrial en edificio hist\u00f3rico restaurado.",
+        "imagen": [
+          "public/departamentos/D5-A.webp",
+          "public/departamentos/D5-B.webp",
+          "public/departamentos/D5-C.webp"
+        ]
+    },
+    {
+        "id": "24",
+        "nombre": "Departamento Moderno F",
+        "categoria": "Departamento",
+        "ubicaci\u00f3n": "Caballito",
+        "precio": 140000,
+        "estado": "Venta",
+        "superficie": 80,
+        "habitaciones": 2,
+        "ba\u00f1os": 2,
+        "descripci\u00f3n": "Departamento con dise\u00f1o moderno y excelente iluminaci\u00f3n.",
+        "imagen": [
+          "public/departamentos/D6-A.webp",
+          "public/departamentos/D6-B.webp",
+          "public/departamentos/D6-C.webp"
+        ]
+    },
+    {
+        "id": "25",
+        "nombre": "Departamento Penthouse G",
+        "categoria": "Departamento",
+        "ubicaci\u00f3n": "Villa Crespo",
+        "precio": 250000,
+        "estado": "Venta",
+        "superficie": 120,
+        "habitaciones": 3,
+        "ba\u00f1os": 2,
+        "descripci\u00f3n": "Penthouse con terraza privada y parrilla integrada.",
+        "imagen": [
+          "public/departamentos/D7-A.webp",
+          "public/departamentos/D7-B.webp",
+          "public/departamentos/D7-C.webp"
+        ]
+    },
+    {
+        "id": "26",
+        "nombre": "Departamento Econ\u00f3mico H",
+        "categoria": "Departamento",
+        "ubicaci\u00f3n": "Almagro",
+        "precio": 70000,
+        "estado": "Venta",
+        "superficie": 50,
+        "habitaciones": 1,
+        "ba\u00f1os": 1,
+        "descripci\u00f3n": "Departamento accesible ideal para estudiantes.",
+        "imagen": [
+          "public/departamentos/D8-A.webp",
+          "public/departamentos/D8-B.webp",
+          "public/departamentos/D8-C.webp"
+        ]
+    },
+    {
+        "id": "27",
+        "nombre": "Departamento Vista Panor\u00e1mica I",
+        "categoria": "Departamento",
+        "ubicaci\u00f3n": "Nu\u00f1ez",
+        "precio": 180000,
+        "estado": "Venta",
+        "superficie": 100,
+        "habitaciones": 3,
+        "ba\u00f1os": 2,
+        "descripci\u00f3n": "Departamento con amplias vistas y balc\u00f3n aterrazado.",
+        "imagen": [
+          "public/departamentos/D9-A.webp",
+          "public/departamentos/D9-B.webp",
+          "public/departamentos/D9-C.webp"
+        ]
+    },
+    {
+        "id": "28",
+        "nombre": "Local Comercial A",
+        "categoria": "Locales",
+        "ubicaci\u00f3n": "Microcentro",
+        "precio": 3500,
+        "estado": "Alquiler",
+        "superficie": 60,
+        "habitaciones": 0,
+        "ba\u00f1os": 1,
+        "descripci\u00f3n": "Local en zona c\u00e9ntrica con alto tr\u00e1nsito peatonal, ideal para comercio.",
+        "imagen": [
+          "public/locales/Lo1.webp"
+        ]
+    },
+    {
+        "id": "29",
+        "nombre": "Local Gastron\u00f3mico B",
+        "categoria": "Locales",
+        "ubicaci\u00f3n": "Palermo",
+        "precio": 8000,
+        "estado": "Alquiler",
+        "superficie": 120,
+        "habitaciones": 0,
+        "ba\u00f1os": 2,
+        "descripci\u00f3n": "Espacio dise\u00f1ado para restaurante, equipado con cocina industrial.",
+        "imagen": [
+          "public/locales/Lo2.webp"
+        ]
+    },
+    {
+        "id": "30",
+        "nombre": "Local en Esquina C",
+        "categoria": "Locales",
+        "ubicaci\u00f3n": "Belgrano",
+        "precio": 4500,
+        "estado": "Venta",
+        "superficie": 90,
+        "habitaciones": 0,
+        "ba\u00f1os": 1,
+        "descripci\u00f3n": "Local en esquina con grandes ventanales, perfecto para cafeter\u00eda.",
+        "imagen": [
+          "public/locales/Lo3.webp"
+        ]
+    },
+    {
+        "id": "31",
+        "nombre": "Local de Oficinas D",
+        "categoria": "Locales",
+        "ubicaci\u00f3n": "Recoleta",
+        "precio": 6000,
+        "estado": "Venta",
+        "superficie": 150,
+        "habitaciones": 5,
+        "ba\u00f1os": 2,
+        "descripci\u00f3n": "Local adaptado para oficinas, con espacios privados y sala de reuniones.",
+        "imagen": [
+          "public/locales/Lo4.webp"
+        ]
+    },
+    {
+        "id": "32",
+        "nombre": "Local Industrial E",
+        "categoria": "Locales",
+        "ubicaci\u00f3n": "Villa Crespo",
+        "precio": 7000,
+        "estado": "Alquiler",
+        "superficie": 200,
+        "habitaciones": 0,
+        "ba\u00f1os": 2,
+        "descripci\u00f3n": "Amplio local en zona industrial, ideal para talleres o dep\u00f3sitos.",
+        "imagen": [
+          "public/locales/Lo5.webp"
+        ]
+    },
+    {
+        "id": "33",
+        "nombre": "Local Comercial F",
+        "categoria": "Locales",
+        "ubicaci\u00f3n": "Caballito",
+        "precio": 5500,
+        "estado": "Alquiler",
+        "superficie": 75,
+        "habitaciones": 0,
+        "ba\u00f1os": 1,
+        "descripci\u00f3n": "Local con buena visibilidad, apto para peque\u00f1o comercio.",
+        "imagen": [
+          "public/locales/Lo6.webp"
+        ]
+    },
+    {
+        "id": "34",
+        "nombre": "Local Boutique G",
+        "categoria": "Locales",
+        "ubicaci\u00f3n": "San Telmo",
+        "precio": 4000,
+        "estado": "Alquiler",
+        "superficie": 50,
+        "habitaciones": 0,
+        "ba\u00f1os": 1,
+        "descripci\u00f3n": "Local boutique en edificio hist\u00f3rico, ideal para galer\u00edas o arte.",
+        "imagen": [
+          "public/locales/Lo7.webp"
+        ]
+    },
+    {
+        "id": "35",
+        "nombre": "Local en Galer\u00eda H",
+        "categoria": "Locales",
+        "ubicaci\u00f3n": "Almagro",
+        "precio": 3000,
+        "estado": "Alquiler",
+        "superficie": 40,
+        "habitaciones": 0,
+        "ba\u00f1os": 1,
+        "descripci\u00f3n": "Espacio dentro de galer\u00eda comercial, con alta afluencia de clientes.",
+        "imagen": [
+          "public/locales/Lo8.webp"
+        ]
+    },
+    {
+        "id": "36",
+        "nombre": "Local de Tecnolog\u00eda I",
+        "categoria": "Locales",
+        "ubicaci\u00f3n": "Nu\u00f1ez",
+        "precio": 5000,
+        "estado": "Alquiler",
+        "superficie": 70,
+        "habitaciones": 0,
+        "ba\u00f1os": 1,
+        "descripci\u00f3n": "Espacio moderno ideal para venta de tecnolog\u00eda o showroom.",
+        "imagen": [
+          "public/locales/Lo9.webp"
+        ]
+    },
+    {
+        "id": "37",
+        "nombre": "Galp\u00f3n Industrial A",
+        "categoria": "Galp\u00f3n",
+        "ubicaci\u00f3n": "Avellaneda",
+        "precio": 150000,
+        "estado": "Venta",
+        "superficie": 500,
+        "habitaciones": 0,
+        "ba\u00f1os": 2,
+        "descripci\u00f3n": "Galp\u00f3n amplio con espacio para maquinaria pesada y acceso a camiones.",
+        "imagen": [
+          "public/galpones/G-1.webp"
+        ]
+    },
+    {
+        "id": "38",
+        "nombre": "Galp\u00f3n Log\u00edstico B",
+        "categoria": "Galp\u00f3n",
+        "ubicaci\u00f3n": "Villa Lugano",
+        "precio": 200000,
+        "estado": "Venta",
+        "superficie": 700,
+        "habitaciones": 0,
+        "ba\u00f1os": 2,
+        "descripci\u00f3n": "Espacio ideal para centro log\u00edstico con amplios portones y oficinas.",
+        "imagen": [
+          "public/galpones/G-2.webp"
+        ]
+    },
+    {
+        "id": "39",
+        "nombre": "Galp\u00f3n Comercial C",
+        "categoria": "Galp\u00f3n",
+        "ubicaci\u00f3n": "Liniers",
+        "precio": 180000,
+        "estado": "Venta",
+        "superficie": 600,
+        "habitaciones": 0,
+        "ba\u00f1os": 1,
+        "descripci\u00f3n": "Galp\u00f3n en zona comercial, apto para almacenamiento y distribuci\u00f3n.",
+        "imagen": [
+          "public/galpones/G-3.webp"
+        ]
+    },
+    {
+        "id": "40",
+        "nombre": "Galp\u00f3n Rural D",
+        "categoria": "Galp\u00f3n",
+        "ubicaci\u00f3n": "Provincia de Buenos Aires",
+        "precio": 120000,
+        "estado": "Venta",
+        "superficie": 800,
+        "habitaciones": 0,
+        "ba\u00f1os": 1,
+        "descripci\u00f3n": "Espacio r\u00fastico para uso agr\u00edcola o ganadero, con f\u00e1cil acceso.",
+        "imagen": [
+          "public/galpones/G-4.webp"
+        ]
+    },
+    {
+        "id": "41",
+        "nombre": "Galp\u00f3n de Dep\u00f3sito E",
+        "categoria": "Galp\u00f3n",
+        "ubicaci\u00f3n": "Barracas",
+        "precio": 170000,
+        "estado": "Venta",
+        "superficie": 550,
+        "habitaciones": 0,
+        "ba\u00f1os": 2,
+        "descripci\u00f3n": "Dep\u00f3sito con sistema de seguridad y c\u00e1maras, ideal para empresas.",
+        "imagen": [
+          "public/galpones/G-5.webp"
+        ]
+    },
+    {
+        "id": "42",
+        "nombre": "Galp\u00f3n para Taller F",
+        "categoria": "Galp\u00f3n",
+        "ubicaci\u00f3n": "Villa Crespo",
+        "precio": 140000,
+        "estado": "Venta",
+        "superficie": 400,
+        "habitaciones": 0,
+        "ba\u00f1os": 1,
+        "descripci\u00f3n": "Galp\u00f3n adecuado para taller mec\u00e1nico o carpinter\u00eda.",
+        "imagen": [
+          "public/galpones/G-6.webp"
+        ]
+    },
+    {
+        "id": "43",
+        "nombre": "Galp\u00f3n Multiespacio G",
+        "categoria": "Galp\u00f3n",
+        "ubicaci\u00f3n": "La Boca",
+        "precio": 160000,
+        "estado": "Venta",
+        "superficie": 600,
+        "habitaciones": 0,
+        "ba\u00f1os": 2,
+        "descripci\u00f3n": "Espacio multifuncional con doble altura y entrada para camiones.",
+        "imagen": [
+          "public/galpones/G-7.webp"
+        ]
+    },
+    {
+        "id": "44",
+        "nombre": "Galp\u00f3n Econ\u00f3mico H",
+        "categoria": "Galp\u00f3n",
+        "ubicaci\u00f3n": "Flores",
+        "precio": 110000,
+        "estado": "Venta",
+        "superficie": 300,
+        "habitaciones": 0,
+        "ba\u00f1os": 1,
+        "descripci\u00f3n": "Galp\u00f3n econ\u00f3mico con acceso directo desde avenida principal.",
+        "imagen": [
+          "public/galpones/G-8.webp"
+        ]
+    },
+    {
+        "id": "45",
+        "nombre": "Galp\u00f3n de Almacenaje I",
+        "categoria": "Galp\u00f3n",
+        "ubicaci\u00f3n": "Nu\u00f1ez",
+        "precio": 190000,
+        "estado": "Venta",
+        "superficie": 750,
+        "habitaciones": 0,
+        "ba\u00f1os": 2,
+        "descripci\u00f3n": "Almacenaje amplio con estructura moderna y buena iluminaci\u00f3n.",
+        "imagen": [
+          "public/galpones/G-9.webp"
+        ]
+    },
+    {
+        "id": "46",
+        "nombre": "Terreno Residencial A",
+        "categoria": "Terreno",
+        "ubicaci\u00f3n": "Tigre",
+        "precio": 120000,
+        "estado": "Venta",
+        "superficie": 300,
+        "habitaciones": 0,
+        "ba\u00f1os": 0,
+        "descripci\u00f3n": "Terreno plano ideal para construir una vivienda familiar en un barrio tranquilo.",
+        "imagen": [
+          "public/terrenos/T-1.webp"
+        ]
+    },
+    {
+        "id": "47",
+        "nombre": "Terreno Comercial B",
+        "categoria": "Terreno",
+        "ubicaci\u00f3n": "Belgrano",
+        "precio": 250000,
+        "estado": "Venta",
+        "superficie": 400,
+        "habitaciones": 0,
+        "ba\u00f1os": 0,
+        "descripci\u00f3n": "Ubicaci\u00f3n estrat\u00e9gica en zona comercial con gran visibilidad.",
+        "imagen": [
+          "public/terrenos/T-2.webp"
+        ]
+    },
+    {
+        "id": "48",
+        "nombre": "Terreno Rural C",
+        "categoria": "Terreno",
+        "ubicaci\u00f3n": "Provincia de Buenos Aires",
+        "precio": 80000,
+        "estado": "Venta",
+        "superficie": 500,
+        "habitaciones": 0,
+        "ba\u00f1os": 0,
+        "descripci\u00f3n": "Terreno amplio rodeado de naturaleza, ideal para actividades agr\u00edcolas.",
+        "imagen": [
+          "public/terrenos/T-3.webp"
+        ]
+    },
+    {
+        "id": "49",
+        "nombre": "Terreno en Esquina D",
+        "categoria": "Terreno",
+        "ubicaci\u00f3n": "Caballito",
+        "precio": 200000,
+        "estado": "Venta",
+        "superficie": 350,
+        "habitaciones": 0,
+        "ba\u00f1os": 0,
+        "descripci\u00f3n": "Terreno en esquina con excelente exposici\u00f3n y apto para m\u00faltiples desarrollos.",
+        "imagen": [
+          "public/terrenos/T-4.webp"
+        ]
+    },
+    {
+        "id": "50",
+        "nombre": "Terreno Frente al R\u00edo E",
+        "categoria": "Terreno",
+        "ubicaci\u00f3n": "San Isidro",
+        "precio": 300000,
+        "estado": "Venta",
+        "superficie": 450,
+        "habitaciones": 0,
+        "ba\u00f1os": 0,
+        "descripci\u00f3n": "Terreno \u00fanico con acceso directo al r\u00edo y vistas espectaculares.",
+        "imagen": [
+          "public/terrenos/T-5.webp"
+        ]
+    },
+    {
+        "id": "51",
+        "nombre": "Terreno Industrial F",
+        "categoria": "Terreno",
+        "ubicaci\u00f3n": "Villa Crespo",
+        "precio": 150000,
+        "estado": "Venta",
+        "superficie": 600,
+        "habitaciones": 0,
+        "ba\u00f1os": 0,
+        "descripci\u00f3n": "Terreno en zona industrial con f\u00e1cil acceso a rutas principales.",
+        "imagen": [
+          "public/terrenos/T-6.webp"
+        ]
+    },
+    {
+        "id": "52",
+        "nombre": "Terreno Econ\u00f3mico G",
+        "categoria": "Terreno",
+        "ubicaci\u00f3n": "Barracas",
+        "precio": 90000,
+        "estado": "Venta",
+        "superficie": 250,
+        "habitaciones": 0,
+        "ba\u00f1os": 0,
+        "descripci\u00f3n": "Oportunidad \u00fanica en terreno econ\u00f3mico para peque\u00f1os proyectos.",
+        "imagen": [
+          "public/terrenos/T-7.webp"
+        ]
+    },
+    {
+        "id": "53",
+        "nombre": "Terreno Urbano H",
+        "categoria": "Terreno",
+        "ubicaci\u00f3n": "Palermo",
+        "precio": 220000,
+        "estado": "Venta",
+        "superficie": 300,
+        "habitaciones": 0,
+        "ba\u00f1os": 0,
+        "descripci\u00f3n": "Terreno en pleno centro urbano con servicios disponibles.",
+        "imagen": [
+          "public/terrenos/T-8.webp"
+        ]
+    },
+    {
+        "id": "54",
+        "nombre": "Terreno con Vistas I",
+        "categoria": "Terreno",
+        "ubicaci\u00f3n": "Recoleta",
+        "precio": 280000,
+        "estado": "Venta",
+        "superficie": 400,
+        "habitaciones": 0,
+        "ba\u00f1os": 0,
+        "descripci\u00f3n": "Terreno elevado con vistas panor\u00e1micas y entorno exclusivo.",
+        "imagen": [
+          "public/terrenos/T-9.webp"
+        ]
+    },
+    {
+        "id": "55",
+        "nombre": "Cochera Techada A",
+        "categoria": "Cochera",
+        "ubicaci\u00f3n": "Recoleta",
+        "precio": 15000,
+        "estado": "Venta",
+        "superficie": 20,
+        "habitaciones": 0,
+        "ba\u00f1os": 0,
+        "descripci\u00f3n": "Cochera techada en edificio con seguridad las 24 horas.",
+        "imagen": [
+          "public/cochera/Co1-A.webp",
+          "public/cochera/Co1-B.webp"
+          ]
+    },
+    {
+        "id": "56",
+        "nombre": "Cochera Subterr\u00e1nea B",
+        "categoria": "Cochera",
+        "ubicaci\u00f3n": "Palermo",
+        "precio": 18000,
+        "estado": "Alquiler",
+        "superficie": 18,
+        "habitaciones": 0,
+        "ba\u00f1os": 0,
+        "descripci\u00f3n": "Cochera subterr\u00e1nea con acceso por rampa, ideal para veh\u00edculos grandes.",
+        "imagen": [
+          "public/cochera/Co2-A.webp",
+          "public/cochera/Co2-B.webp"
+          ]
+    },
+    {
+        "id": "57",
+        "nombre": "Cochera Descubierta C",
+        "categoria": "Cochera",
+        "ubicaci\u00f3n": "Caballito",
+        "precio": 12000,
+        "estado": "Alquiler",
+        "superficie": 25,
+        "habitaciones": 0,
+        "ba\u00f1os": 0,
+        "descripci\u00f3n": "Espacio descubierto con f\u00e1cil acceso desde la calle.",
+        "imagen": [
+          "public/cochera/Co3-A.webp",
+          "public/cochera/Co3-B.webp"
+          ]
+    },
+    {
+        "id": "58",
+        "nombre": "Cochera Doble D",
+        "categoria": "Cochera",
+        "ubicaci\u00f3n": "Belgrano",
+        "precio": 22000,
+        "estado": "Venta",
+        "superficie": 35,
+        "habitaciones": 0,
+        "ba\u00f1os": 0,
+        "descripci\u00f3n": "Cochera doble techada con espacio adicional para bicicletas.",
+        "imagen": [
+          "public/cochera/Co4-A.webp",
+          "public/cochera/Co4-B.webp"
+          ]
+    },
+    {
+        "id": "59",
+        "nombre": "Cochera Autom\u00e1tica E",
+        "categoria": "Cochera",
+        "ubicaci\u00f3n": "Almagro",
+        "precio": 20000,
+        "estado": "Alquiler",
+        "superficie": 22,
+        "habitaciones": 0,
+        "ba\u00f1os": 0,
+        "descripci\u00f3n": "Espacio con port\u00f3n autom\u00e1tico en edificio moderno.",
+        "imagen": [
+          "public/cochera/Co5-A.webp",
+          "public/cochera/Co5-B.webp"
+          ]
+    },
+    {
+        "id": "60",
+        "nombre": "Cochera Compartida F",
+        "categoria": "Cochera",
+        "ubicaci\u00f3n": "Nu\u00f1ez",
+        "precio": 10000,
+        "estado": "Alquiler",
+        "superficie": 15,
+        "habitaciones": 0,
+        "ba\u00f1os": 0,
+        "descripci\u00f3n": "Cochera compartida en complejo con acceso limitado.",
+        "imagen": [
+          "public/cochera/Co6-A.webp",
+          "public/cochera/Co6-B.webp"
+          ]
+    },
+    {
+        "id": "61",
+        "nombre": "Cochera de Lujo G",
+        "categoria": "Cochera",
+        "ubicaci\u00f3n": "Puerto Madero",
+        "precio": 30000,
+        "estado": "Venta",
+        "superficie": 30,
+        "habitaciones": 0,
+        "ba\u00f1os": 0,
+        "descripci\u00f3n": "Cochera premium en edificio exclusivo con servicios adicionales.",
+        "imagen": [
+          "public/cochera/Co7-A.webp",
+          "public/cochera/Co7-B.webp"
+          ]
+    },
+    {
+        "id": "62",
+        "nombre": "Cochera Accesible H",
+        "categoria": "Cochera",
+        "ubicaci\u00f3n": "Barracas",
+        "precio": 9000,
+        "estado": "Venta",
+        "superficie": 20,
+        "habitaciones": 0,
+        "ba\u00f1os": 0,
+        "descripci\u00f3n": "Espacio accesible para todo tipo de veh\u00edculos.",
+        "imagen": [
+          "public/cochera/Co8-A.webp",
+          "public/cochera/Co8-B.webp"
+          ]
+    },
+    {
+        "id": "63",
+        "nombre": "Cochera Segura I",
+        "categoria": "Cochera",
+        "ubicaci\u00f3n": "Flores",
+        "precio": 16000,
+        "estado": "Venta",
+        "superficie": 20,
+        "habitaciones": 0,
+        "ba\u00f1os": 0,
+        "descripci\u00f3n": "Cochera cerrada con c\u00e1maras de seguridad.",
+        "imagen": [
+          "public/cochera/Co9-A.webp",
+          "public/cochera/Co9-B.webp"
+          ]
+    },
+    {
+        "id": "64",
+        "nombre": "PH en Planta Baja A",
+        "categoria": "PH",
+        "ubicaci\u00f3n": "Caballito",
+        "precio": 150000,
+        "estado": "Venta",
+        "superficie": 80,
+        "habitaciones": 3,
+        "ba\u00f1os": 1,
+        "descripci\u00f3n": "PH en planta baja con patio privado y entrada independiente.",
+        "imagen": [
+          "public/phs/Ph1-A.webp",
+          "public/phs/Ph1-B.webp"
+        ]
+    },
+    {
+        "id": "65",
+        "nombre": "PH con Terraza B",
+        "categoria": "PH",
+        "ubicaci\u00f3n": "Palermo",
+        "precio": 200000,
+        "estado": "Venta",
+        "superficie": 100,
+        "habitaciones": 4,
+        "ba\u00f1os": 2,
+        "descripci\u00f3n": "PH con amplia terraza y parrilla en zona residencial.",
+        "imagen": [
+          "public/phs/Ph2-A.webp",
+          "public/phs/Ph2-B.webp"
+        ]
+    },
+    {
+        "id": "66",
+        "nombre": "PH Moderno C",
+        "categoria": "PH",
+        "ubicaci\u00f3n": "Villa Crespo",
+        "precio": 180000,
+        "estado": "Venta",
+        "superficie": 90,
+        "habitaciones": 3,
+        "ba\u00f1os": 2,
+        "descripci\u00f3n": "PH moderno con cocina integrada y detalles de dise\u00f1o.",
+        "imagen": [
+          "public/phs/Ph3-A.webp",
+          "public/phs/Ph3-B.webp"
+        ]
+    },
+    {
+        "id": "67",
+        "nombre": "PH con Patio D",
+        "categoria": "PH",
+        "ubicaci\u00f3n": "Belgrano",
+        "precio": 220000,
+        "estado": "Venta",
+        "superficie": 120,
+        "habitaciones": 4,
+        "ba\u00f1os": 2,
+        "descripci\u00f3n": "PH con patio interno y jard\u00edn en una excelente ubicaci\u00f3n.",
+        "imagen": [
+          "public/phs/Ph4-A.webp",
+          "public/phs/Ph4-B.webp"
+        ]
+    },
+    {
+        "id": "68",
+        "nombre": "PH Cl\u00e1sico E",
+        "categoria": "PH",
+        "ubicaci\u00f3n": "San Telmo",
+        "precio": 140000,
+        "estado": "Venta",
+        "superficie": 85,
+        "habitaciones": 2,
+        "ba\u00f1os": 1,
+        "descripci\u00f3n": "PH cl\u00e1sico en edificio hist\u00f3rico con detalles originales.",
+        "imagen": [
+          "public/phs/Ph5-A.webp",
+          "public/phs/Ph5-B.webp"
+        ]
+    },
+    {
+        "id": "69",
+        "nombre": "PH Estilo Loft F",
+        "categoria": "PH",
+        "ubicaci\u00f3n": "Recoleta",
+        "precio": 170000,
+        "estado": "Venta",
+        "superficie": 95,
+        "habitaciones": 2,
+        "ba\u00f1os": 1,
+        "descripci\u00f3n": "PH estilo loft con techos altos y ambientes abiertos.",
+        "imagen": [
+          "public/phs/Ph6-A.webp",
+          "public/phs/Ph6-B.webp"
+        ]
+    },
+    {
+        "id": "70",
+        "nombre": "PH Econ\u00f3mico G",
+        "categoria": "PH",
+        "ubicaci\u00f3n": "Almagro",
+        "precio": 120000,
+        "estado": "Venta",
+        "superficie": 70,
+        "habitaciones": 2,
+        "ba\u00f1os": 1,
+        "descripci\u00f3n": "PH econ\u00f3mico ideal para familias peque\u00f1as o inversi\u00f3n.",
+        "imagen": [
+          "public/phs/Ph7-A.webp",
+          "public/phs/Ph7-B.webp"
+        ]
+    },
+    {
+        "id": "71",
+        "nombre": "PH con Doble Altura H",
+        "categoria": "PH",
+        "ubicaci\u00f3n": "Barracas",
+        "precio": 190000,
+        "estado": "Venta",
+        "superficie": 110,
+        "habitaciones": 3,
+        "ba\u00f1os": 2,
+        "descripci\u00f3n": "PH con doble altura y entrepiso en zona tranquila.",
+        "imagen": [
+          "public/phs/Ph8-A.webp",
+          "public/phs/Ph8-B.webp"
+        ]
+    },
+    {
+        "id": "72",
+        "nombre": "PH con Cochera I",
+        "categoria": "PH",
+        "ubicaci\u00f3n": "Nu\u00f1ez",
+        "precio": 210000,
+        "estado": "Venta",
+        "superficie": 105,
+        "habitaciones": 3,
+        "ba\u00f1os": 2,
+        "descripci\u00f3n": "PH con cochera incluida y excelente distribuci\u00f3n.",
+        "imagen": [
+          "public/phs/Ph9-A.webp",
+          "public/phs/Ph9-B.webp"
+        ]
+    },
+    {
+        "id": "73",
+        "nombre": "Campo Agr\u00edcola A",
+        "categoria": "Campo",
+        "ubicaci\u00f3n": "Provincia de Buenos Aires",
+        "precio": 500000,
+        "estado": "Venta",
+        "superficie": 100,
+        "habitaciones": 0,
+        "ba\u00f1os": 0,
+        "descripci\u00f3n": "Campo agr\u00edcola con suelo f\u00e9rtil, ideal para cultivos extensivos.",
+        "imagen": [
+          "public/phs/Ca1-A.webp",
+          "public/phs/Ca1-B.webp"          
+        ]
+    },
+    {
+        "id": "74",
+        "nombre": "Campo Ganadero B",
+        "categoria": "Campo",
+        "ubicaci\u00f3n": "Santa Fe",
+        "precio": 700000,
+        "estado": "Venta",
+        "superficie": 150,
+        "habitaciones": 0,
+        "ba\u00f1os": 0,
+        "descripci\u00f3n": "Campo equipado para ganader\u00eda, con corrales y agua corriente.",
+        "imagen": [
+          "public/phs/Ca2-A.webp",
+          "public/phs/Ca2-B.webp"          
+        ]
+    },
+    {
+        "id": "75",
+        "nombre": "Campo Mixto C",
+        "categoria": "Campo",
+        "ubicaci\u00f3n": "C\u00f3rdoba",
+        "precio": 600000,
+        "estado": "Venta",
+        "superficie": 120,
+        "habitaciones": 0,
+        "ba\u00f1os": 0,
+        "descripci\u00f3n": "Campo apto para actividades agr\u00edcolas y ganaderas, con buen acceso.",
+        "imagen": [
+          "public/phs/Ca3-A.webp",
+          "public/phs/Ca3-B.webp"          
+        ]
+    },
+    {
+        "id": "76",
+        "nombre": "Campo Recreativo D",
+        "categoria": "Campo",
+        "ubicaci\u00f3n": "Entre R\u00edos",
+        "precio": 400000,
+        "estado": "Venta",
+        "superficie": 80,
+        "habitaciones": 0,
+        "ba\u00f1os": 0,
+        "descripci\u00f3n": "Campo recreativo con lago artificial y \u00e1reas de descanso.",
+        "imagen": [
+          "public/phs/Ca4-A.webp",
+          "public/phs/Ca4-B.webp"          
+        ]
+    },
+    {
+        "id": "77",
+        "nombre": "Campo Forestal E",
+        "categoria": "Campo",
+        "ubicaci\u00f3n": "Misiones",
+        "precio": 800000,
+        "estado": "Venta",
+        "superficie": 200,
+        "habitaciones": 0,
+        "ba\u00f1os": 0,
+        "descripci\u00f3n": "Campo forestal con plantaciones de pinos y acceso a rutas.",
+        "imagen": [
+          "public/phs/Ca5-A.webp",
+          "public/phs/Ca5-B.webp"          
+        ]
+    },
+    {
+        "id": "78",
+        "nombre": "Campo Ecol\u00f3gico F",
+        "categoria": "Campo",
+        "ubicaci\u00f3n": "Chaco",
+        "precio": 550000,
+        "estado": "Venta",
+        "superficie": 90,
+        "habitaciones": 0,
+        "ba\u00f1os": 0,
+        "descripci\u00f3n": "Campo ecol\u00f3gico con energ\u00eda solar y pr\u00e1cticas sustentables.",
+        "imagen": [
+          "public/phs/Ca6-A.webp",
+          "public/phs/Ca6-B.webp"          
+        ]
+    },
+    {
+        "id": "79",
+        "nombre": "Campo de Sierras G",
+        "categoria": "Campo",
+        "ubicaci\u00f3n": "San Luis",
+        "precio": 450000,
+        "estado": "Venta",
+        "superficie": 70,
+        "habitaciones": 0,
+        "ba\u00f1os": 0,
+        "descripci\u00f3n": "Campo con vistas a las sierras, ideal para turismo rural.",
+        "imagen": [
+          "public/phs/Ca7-A.webp",
+          "public/phs/Ca7-B.webp"          
+        ]
+    },
+    {
+        "id": "80",
+        "nombre": "Campo con Riego H",
+        "categoria": "Campo",
+        "ubicaci\u00f3n": "Mendoza",
+        "precio": 750000,
+        "estado": "Venta",
+        "superficie": 140,
+        "habitaciones": 0,
+        "ba\u00f1os": 0,
+        "descripci\u00f3n": "Campo con sistema de riego para cultivos intensivos.",
+        "imagen": [
+          "public/phs/Ca8-A.webp",
+          "public/phs/Ca8-B.webp"          
+        ]
+    },
+    {
+        "id": "81",
+        "nombre": "Campo de Altura I",
+        "categoria": "Campo",
+        "ubicaci\u00f3n": "Jujuy",
+        "precio": 500000,
+        "estado": "Venta",
+        "superficie": 60,
+        "habitaciones": 0,
+        "ba\u00f1os": 0,
+        "descripci\u00f3n": "Campo en altura con vistas panor\u00e1micas y clima \u00fanico.",
+        "imagen": [
+          "public/phs/Ca9-A.webp",
+          "public/phs/Ca9-B.webp"          
+        ]
+    },
+    {
+        "id": "82",
+        "nombre": "Oficina Moderna A",
+        "categoria": "Oficina",
+        "ubicaci\u00f3n": "Microcentro",
+        "precio": 200000,
+        "estado": "Venta",
+        "superficie": 120,
+        "habitaciones": 4,
+        "ba\u00f1os": 2,
+        "descripci\u00f3n": "Oficina moderna en edificio corporativo con vista a la ciudad.",
+        "imagen": [
+          "public/oficinas/Of1-A.webp",
+          "public/oficinas/Of1-B.webp"
+        ]
+    },
+    {
+        "id": "83",
+        "nombre": "Oficina Boutique B",
+        "categoria": "Oficina",
+        "ubicaci\u00f3n": "Recoleta",
+        "precio": 150000,
+        "estado": "Venta",
+        "superficie": 90,
+        "habitaciones": 3,
+        "ba\u00f1os": 1,
+        "descripci\u00f3n": "Oficina boutique con dise\u00f1o exclusivo y espacios luminosos.",
+        "imagen": [
+          "public/oficinas/Of2-A.webp",
+          "public/oficinas/Of2-B.webp"
+        ]
+    },
+    {
+        "id": "84",
+        "nombre": "Oficina Compartida C",
+        "categoria": "Oficina",
+        "ubicaci\u00f3n": "Palermo",
+        "precio": 50000,
+        "estado": "Alquiler",
+        "superficie": 50,
+        "habitaciones": 2,
+        "ba\u00f1os": 1,
+        "descripci\u00f3n": "Espacio compartido ideal para startups o peque\u00f1os equipos.",
+        "imagen": [
+          "public/oficinas/Of3-A.webp",
+          "public/oficinas/Of3-B.webp"
+        ]
+    },
+    {
+        "id": "85",
+        "nombre": "Oficina Corporativa D",
+        "categoria": "Oficina",
+        "ubicaci\u00f3n": "Belgrano",
+        "precio": 300000,
+        "estado": "Venta",
+        "superficie": 200,
+        "habitaciones": 6,
+        "ba\u00f1os": 3,
+        "descripci\u00f3n": "Oficina corporativa con sala de reuniones y recepci\u00f3n.",
+        "imagen": [
+          "public/oficinas/Of4-A.webp",
+          "public/oficinas/Of4-B.webp"
+        ]
+    },
+    {
+        "id": "86",
+        "nombre": "Oficina Econ\u00f3mica E",
+        "categoria": "Oficina",
+        "ubicaci\u00f3n": "Almagro",
+        "precio": 80000,
+        "estado": "Venta",
+        "superficie": 70,
+        "habitaciones": 2,
+        "ba\u00f1os": 1,
+        "descripci\u00f3n": "Oficina econ\u00f3mica en edificio c\u00e9ntrico con buena conectividad.",
+        "imagen": [
+          "public/oficinas/Of5-A.webp",
+          "public/oficinas/Of5-B.webp"
+        ]
+    },
+    {
+        "id": "87",
+        "nombre": "Oficina Premium F",
+        "categoria": "Oficina",
+        "ubicaci\u00f3n": "Puerto Madero",
+        "precio": 400000,
+        "estado": "Venta",
+        "superficie": 150,
+        "habitaciones": 5,
+        "ba\u00f1os": 2,
+        "descripci\u00f3n": "Oficina premium en edificio exclusivo con amenities.",
+        "imagen": [
+          "public/oficinas/Of6-A.webp",
+          "public/oficinas/Of6-B.webp"
+        ]
+    },
+    {
+        "id": "88",
+        "nombre": "Oficina con Balc\u00f3n G",
+        "categoria": "Oficina",
+        "ubicaci\u00f3n": "Villa Crespo",
+        "precio": 250000,
+        "estado": "Venta",
+        "superficie": 100,
+        "habitaciones": 3,
+        "ba\u00f1os": 2,
+        "descripci\u00f3n": "Oficina luminosa con balc\u00f3n y vistas panor\u00e1micas.",
+        "imagen": [
+          "public/oficinas/Of7-A.webp",
+          "public/oficinas/Of7-B.webp"
+        ]
+    },
+    {
+        "id": "89",
+        "nombre": "Oficina Flexible H",
+        "categoria": "Oficina",
+        "ubicaci\u00f3n": "Barracas",
+        "precio": 100000,
+        "estado": "Alquiler",
+        "superficie": 80,
+        "habitaciones": 4,
+        "ba\u00f1os": 1,
+        "descripci\u00f3n": "Espacio flexible adaptable a diferentes necesidades.",
+        "imagen": [
+          "public/oficinas/Of8-A.webp",
+          "public/oficinas/Of8-B.webp"
+        ]
+    },
+    {
+        "id": "90",
+        "nombre": "Oficina Minimalista I",
+        "categoria": "Oficina",
+        "ubicaci\u00f3n": "San Telmo",
+        "precio": 120000,
+        "estado": "Venta",
+        "superficie": 60,
+        "habitaciones": 2,
+        "ba\u00f1os": 1,
+        "descripci\u00f3n": "Oficina minimalista con dise\u00f1o moderno y espacios funcionales.",
+        "imagen": [
+          "public/oficinas/Of9-A.webp",
+          "public/oficinas/Of9-B.webp"
+        ]
+    }
+]

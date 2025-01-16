@@ -1,0 +1,30 @@
+.destacadas__MainContainer{
+    padding: 100px 0;
+}
+.destacadas__Title{
+    text-align: center;
+    padding: 50px 0;
+    font-size: 64px;
+    font-weight: Bold;
+}
+.destacadasCards__Container{
+    display: flex;
+    gap: 20px;
+}
+@media (max-width: 1200px) {
+    .destacadasCards__Container{
+        justify-content: center;
+        flex-wrap: wrap;
+        gap: 20px;
+    }          
+}
+@media (max-width: 576px){
+    .destacadas__MainContainer{
+        padding: 10px 0;
+        width: 100%;
+    }
+    .destacadas__Title{        
+        padding: 30px 0;
+        font-size: 44px;        
+    }    
+}

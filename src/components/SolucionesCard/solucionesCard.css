@@ -1,0 +1,48 @@
+.soluciones-card{
+    background-color: #FFFFFF57;
+    border-radius: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    align-content: flex-start;
+    padding: 20px;    
+}
+.solucionesCard-body{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.card-data{
+    font-size: 64px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0;
+}
+.card-subtitle{
+    font-size: 34px;
+    font-weight: 600;
+    text-align: center;
+    line-height: 36px;
+}
+.card-text{
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+}
+@media (max-width: 576px) {
+    .soluciones-card{
+        background-color: #FFFFFF95;        
+    }
+    .card-data{
+        font-size: 44px;
+        line-height: 46px;        
+    }
+    .card-subtitle{
+        font-size: 22px;
+        line-height: 24px;
+    }
+    .card-text{
+        font-size: 16px;        
+    }
+}

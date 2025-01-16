@@ -1,0 +1,91 @@
+.footer__MainContainer{
+    background-color: #12156C;        
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+.footer__Content-Container{
+    width: 1450px;
+}
+.footer__Text-Container{
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+}
+.footer__Title, .footer__Text{
+    color: #FFFFFF;
+}
+.footer__Title{
+    font-size: 54px;
+    line-height: 56px;
+}
+.footer__Text{
+    font-size: 16px;
+    line-height: 20px;
+}
+.footer__Links-Container ul{
+    color: #FFFFFF;
+    list-style: none;
+}
+.footer__Links-Logo{
+    width: 40%;
+}
+.footer__Contacto-Container ul{
+    font-size: 16px;
+    color: #FFFFFF;
+    list-style: none
+}
+.footer__Contacto-Title{
+    font-size: 20px;
+}
+.footer__Contacto-Icons-Container{
+    display: flex;
+    gap: 20px;
+}
+.footer__Copyright-Container{
+    border-top: solid 1px #FFF;
+    margin-top: 20px;
+    color: #FFF;
+    font-size: 16px;
+    text-align: center;
+    padding: 10px;
+}
+@media (max-width: 1200px) {
+    .footer__Links-Logo{
+        width: 80%;
+    }
+}
+@media (max-width: 992px) {
+    .footer__Links-Logo{
+        width: 60%;
+    }
+}
+@media (max-width: 576px) {
+    .footer__Title{
+        font-size: 44px;
+        line-height: 46px;
+    }
+    .footer__Links-Container ul{
+        color: #FFFFFF;
+        list-style: none;
+        font-size: 14px;
+    }
+    .footer__Text-Container{
+        padding: 10px;
+    }
+    .footer__Links-Container{
+        padding: 10px;
+    }
+    .footer__Contacto-Container{
+        padding: 10px;
+    }
+    .footer__Contacto-Container ul{
+        font-size: 14px;
+        color: #FFFFFF;
+        list-style: none
+    }
+    .footer__Contacto-Title{
+        font-size: 18px;
+    }
+}

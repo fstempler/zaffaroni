@@ -1,0 +1,27 @@
+.sortNavbar__Container{
+    background-color: #12156C !important;
+    width: 100%;
+}
+.sortNavbar__MainContainer{
+    background-color: #12156C !important;
+    width: 1200px;
+}
+
+.sortNavbar__MainContainer p{
+    color: #fff;
+    font-size: 16px;
+}
+.sortNavbar__MainContainer .sortNavbar__Text{
+    color: #fff;
+    font-size: 16px;
+}
+.dropdown-toggle::after{
+    color: #fff;
+}
+.sortBar__Dorpdown{
+    border: solid 1px #fff;
+}
+
+.sortBar__Dropdown-Item:hover{
+    color: #12156C;    
+}
