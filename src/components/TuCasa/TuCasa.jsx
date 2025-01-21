@@ -7,7 +7,7 @@ const TuCasa = () => {
     return (
         <section className='tuCasa__MainContainer'>
             
-                <div className='row'>
+                <div className='row tuCasa__Container'>
                     <div className='col-12 col-lg-6 tuCasa__col-left'>
                         <div className='tuCasa__TextContainer'>
                             <h2 className='tuCasa__Title'>Tu Casa La <br/>Encontras Acá</h2>
@@ -16,10 +16,10 @@ const TuCasa = () => {
                         </div>
                     </div>
                     <div className='col-12 col-lg-6 tuCasa__col-right'>                        
-                        <img src={tuCasa} alt="Casa" className='tuCasa__Img' />
+                        
                     </div>
                 
-            </div>
+                </div>
         </section>
     )
 }

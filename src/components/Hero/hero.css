@@ -12,6 +12,7 @@
 .hero__Text{
     font-size: 64px;   
     color: #FFF;   
+    font-weight: bold;
 }
 @media (max-width: 992px) {
     .hero__Container{         

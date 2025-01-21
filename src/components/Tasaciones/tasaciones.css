@@ -6,9 +6,16 @@
     background-size: cover;
     height: 60vh;
     width: 100%;
-    justify-content: center;           
+    justify-content: center;       
+    background-image: url(../../assets/tasaciones.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;    
 }
 
+.tasaciones__Container{
+    width: 1200px;
+}
 .tasaciones__TextContainer{
     display: flex;
     flex-direction: column;
@@ -16,8 +23,6 @@
     align-items: flex-start;
     align-content: flex-end;
     gap: 20px;    
-    width: 100%;
-    padding-left: 250px;
 }
 .tasaciones__Title{
     font-size: 64px;
@@ -45,6 +50,10 @@
         padding-left: 0;
         padding: 20px;
     }
+    .tasaciones__MainContainer{
+        background-size: 45%;
+        background-position: bottom right;        
+    }
 }
 @media (max-width: 1200px) {  
     .tasaciones__MainContainer{        
@@ -63,6 +72,9 @@
     .tasaciones__Text{
         line-height: 20px;
     } 
+    .tasaciones__MainContainer{
+        background-size: 40%;        
+    }
 }
 @media (max-width: 992px) {
     .tasaciones__MainContainer{        
@@ -73,6 +85,9 @@
         padding-left: 0;
         padding: 20px;
     }
+    .tasaciones__Container{
+        width: 100%;
+    }    
 }
 @media (max-width: 576px) {
     
@@ -85,11 +100,7 @@
         font-size: 16px; 
         line-height: 18px;       
     }
-    .tasaciones__ImgContainer{
-        width: 100%;        
-    }
-    .tasaciones__Img{
-        width: 80%;
-        height: auto;
+    .tasaciones__MainContainer{
+        background-size: 30%;        
     }
 }

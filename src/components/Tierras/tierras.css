@@ -11,6 +11,9 @@
 .colContainer{
     display: flex;
 }
+.tierras__Container{
+    width: 1200px;
+}
 .tierras__TextContainer{
     display: flex;
     flex-direction: column;

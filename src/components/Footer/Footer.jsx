@@ -3,6 +3,7 @@ import './footer.css'
 import Btn from '../BtnRedBorder/BtnRedBorder';
 //images
 import logo from '../../assets/zaffaroni-logo-noBckg.png';
+import { Link } from 'react-router-dom';
 
 
 const Footer = () => {
@@ -14,23 +15,23 @@ const Footer = () => {
                         <div className='footer__Text-Container'>
                             <h2 className='footer__Title'>Hablemos</h2>
                             <p className='footer__Text'>Lorem ipsum dolor sit amet consectetur adipiscing elit lacus netus, facilisis orci tellus magna dui per mattis cras maecenas, ullamcorper ante rhoncus enim venenatis dignissim odio egestas. </p>
-                            <Btn
+                            <Link to="/contact" className='contact__Btn'><Btn
                             text={"Contacto"}
-                            />
+                            /></Link>
                         </div>
                     </div>
                     <div className='col-12 col-md-3'>
                         <div className='footer__Links-Container'>
                             <ul>
                                 <li><img src={logo} className='footer__Links-Logo' alt='Logo Zaffaroni' /></li>
-                                <li>Inicio</li>
-                                <li>Comprar</li>
-                                <li>Vender</li>
-                                <li>Alquilar</li>
-                                <li>Emprendimientos</li>
-                                <li>Campos</li>
-                                <li>Cotacto</li>
-                                <li>Nosotros</li>
+                                <Link to="/"><li>Inicio</li></Link>
+                                <Link to="/comprar"><li>Comprar</li></Link>
+                                <Link to="/vender"><li>Vender</li></Link>
+                                <Link to="/alquilar"><li>Alquilar</li></Link>
+                                <Link to="/emprendimientos"><li>Emprendimientos</li></Link>
+                                <Link to="/campos"><li>Campos</li></Link>
+                                <Link to="/contact"><li>Cotacto</li></Link>
+                                <Link to="/nosotros"><li>Nosotros</li></Link>
                             </ul>
                         </div>
                     

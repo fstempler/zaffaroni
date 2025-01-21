@@ -1,0 +1,91 @@
+.filter-menu {
+    width: 300px;
+    border: 1px solid #ddd;
+    padding: 16px;
+    border-radius: 8px;
+    columns: #12156C;        
+  }
+.filterMenu__Title-Container{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 10px;
+}
+.filterMenu__Title{
+    color: #12156C;
+    font-size: 18px;
+}
+  .filter-section {
+    margin-bottom: 16px;    
+  }
+  .filter-section h4 {
+    font-size: 18px;
+  }
+  
+  .range-inputs {
+    display: flex;
+    gap: 8px;    
+  }
+  .range-inputs input::placeholder{
+    color: #ccc;
+  }
+  .filterMenu__Select{
+    color: #12156C;
+    border-color: #12156C;
+    border-radius: 5px;
+  }
+  input[type="number"] {
+    width: 48%;
+    padding: 2px 4px;
+    border: 1px solid #ccc;
+    border-width: 0 0 1px 0;    
+  }
+  input[type="checkbox"] {
+    margin: 0 5px ;
+  }  
+  .deleteFilterBtn{
+    color: #9E9E9E;
+    background-color: #fff;
+    border: none;
+    width: 100%;
+    margin: 10px 0;
+  }
+  .deleteFilterBtn:hover {
+    color: #12156C;
+  }
+  label {
+    display: block;
+    margin-bottom: 8px;
+    font-size: 14px;
+  }
+  .filterMenu__Accordion{
+    margin: 10px 0;
+  }
+  .filterMenu__Accordion-Button{
+    padding: 10px;
+    color: #12156C;
+  }
+  .filterMenu__Accordion-Button:not(.collapsed) {
+    background-color: #fff;
+    color: #12156C;
+  }
+  .filterMenu__Accordion-Button:focus{
+    box-shadow: none;
+  }
+  @media (max-width: 992px) {
+    .filter-menu {
+      width: 100%;
+    }
+  }
+  @media (max-width: 576px) {
+    .content__Main-Container{
+      width: 90%;
+    }
+    .filter-menu {
+        width: 100%;        
+      }
+    .comprar__FilterMenu-Col {
+        padding: 0;
+    }
+  }
+  

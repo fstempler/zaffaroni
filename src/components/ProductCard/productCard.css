@@ -1,0 +1,42 @@
+.productCard__Container{
+    width: 24em;
+    padding: 10px;
+}
+.productCard__Badge{
+    background-color: #12156C;
+    border-radius: 50px;
+    padding: 3px 12px;
+    color: #fff;
+    width: fit-content;
+}
+.productCard__Content-Container{
+    padding: 10px 0;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.productCard__Data-Container{
+    display: flex;
+    gap: 10px;
+}
+.productCard__Btn-Container{
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+}
+.productCard__Text{
+    text-align: left;
+}
+
+@media (max-width: 1024px) {
+    .productCard__Container{
+        width: 18em;
+        padding: 5px;
+    }
+}
+@media (max-width: 768px) {
+    .productCard__Container{
+        width: 18em;
+        padding: 5px;
+    }
+  }

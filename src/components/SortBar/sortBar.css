@@ -25,3 +25,28 @@
 .sortBar__Dropdown-Item:hover{
     color: #12156C;    
 }
+.sortNavbarToggler{
+    border-color: #fff;
+    background-color: #fff;
+}
+.sortNavbarToggler:focus{
+    border-color: #cf2323;
+    background-color: #fff;
+    box-shadow: none;
+}
+.sortNavbar-toggler-icon {    
+    background-color: #fff;
+    border-radius: 5px;
+    border-color: #fff;
+}
+@media (max-width: 1024px) {
+    .sortNavbar__MainContainer{        
+        width: 100%;
+    }
+
+    .sortNavbar__Container{     
+        width: 100%;
+    }
+    
+  }
+  

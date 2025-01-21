@@ -8,10 +8,10 @@ const SortBar = () => {
         <nav className="navbar navbar-expand-lg sortNavbar__MainContainer">
             <div className="container-fluid">
                 <p className="navbar-brand" href="#">Propiedades Disponibles</p>
-                    <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                        <span className="navbar-toggler-icon"></span>
+                    <button className="navbar-toggler sortNavbarToggler" type="button" data-bs-toggle="collapse" data-bs-target="#sortNavbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <span className="navbar-toggler-icon sortNavbar-toggler-icon"></span>
                     </button>
-                <div className="collapse navbar-collapse" id="navbarSupportedContent">
+                <div className="collapse navbar-collapse" id="sortNavbarSupportedContent">
                     <ul className="navbar-nav me-auto mb-2 mb-lg-0">
                         <li className="nav-item">
                             <Link className="nav-link active" aria-current="page" to="https://www.google.com.ar/maps"><span className='sortNavbar__Text'><i className="bi bi-geo-alt-fill"></i> Ver Mapa</span></Link>

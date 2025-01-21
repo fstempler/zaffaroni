@@ -1,0 +1,14 @@
+.alquilar__Content-Container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 10px;
+}
+.alquilar__FilterMenu-Col{
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+

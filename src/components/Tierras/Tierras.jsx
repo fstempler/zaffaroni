@@ -5,7 +5,7 @@ import Btn from '../BtnRedBorder/BtnRedBorder';
 const Tierras = () => {
     return (
         <section className='tierras__MainContainer'>
-            <div className='row'>
+            <div className='row tierras__Container'>
                 <div className='col-12 col-lg-4'>
                     
                 </div>
