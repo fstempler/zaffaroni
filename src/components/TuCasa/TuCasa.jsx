@@ -1,6 +1,5 @@
 import './tuCasa.css'
 //Components
-import tuCasa from '../../assets/tuCasa-img.png';
 import Btn from '../BtnRedBorder/BtnRedBorder';
 
 const TuCasa = () => {
