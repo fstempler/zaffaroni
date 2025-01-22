@@ -1,0 +1,65 @@
+.contact__MainContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;align-items: center;
+}
+.contact__Content-Container h1{
+    color: #12156C;
+    font-size: 64px;
+    font-weight: bold;
+    text-align: left;
+}
+.contact__Content-Container{    
+    width: 1200px;
+}
+.form__Container{
+    background-color: #12156C;
+    color: #FFF;
+    padding: 10px;
+    border-radius: 10px;
+}
+.form__Container input{
+    background-color: #12156C;
+}
+.form__Container input::placeholder{
+    color: #FFF;    
+}
+.form__Container textarea::placeholder{
+    color: #FFF;    
+}
+.form__Container textarea{
+    background-color: #12156C;
+}
+.contact__Data-Container{
+    
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+}
+.contact__Data{
+    color: #12156C;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.contact__Data i{
+    font-size: 40px;
+}
+.contact__Data h2{
+    font-size: 18px;
+}
+.contact__Data-Map-Container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0;
+}
+@media (max-width: 1200px){
+    .contact__Content-Container{    
+        width: 100%;
+        padding: 10px;
+    }
+}

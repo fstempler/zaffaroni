@@ -1,0 +1,79 @@
+.serviciosCard__Container{
+    background-color: #FFF;
+    border-radius: 10px;
+    width: 18em;
+    height: 23em;
+    color: #12156C;
+    padding: 20px;
+}
+
+.serviciosCard__Container h1{
+    font-size: 32px;
+    font-weight: bold;
+}
+.serviciosCard__Container p{
+    font-size: 18px;
+    line-height: 18px;    
+}
+.serviciosCard__Container i{
+    font-size: 54px;
+}
+
+@media (max-width: 1200px){
+    .serviciosCard__Container{                
+        width: 22em;
+        height: 28em;
+        color: #12156C;
+        padding: 20px;
+    }
+}
+@media (max-width: 1024px){
+    .serviciosCard__Container{
+        background-color: #FFF;
+        border-radius: 10px;
+        width: 16em;
+        height: 22em;
+        color: #12156C;
+        padding: 20px;
+    }
+    .serviciosCard__Container h1{
+        font-size: 22px;
+        font-weight: bold;
+    }
+    .serviciosCard__Container p{
+        font-size: 16px;
+        line-height: 14px;    
+    }
+    .serviciosCard__Container i{
+        font-size: 30px;
+    }
+}    
+@media (max-width: 956px){
+    .serviciosCard__Container{        
+        width: 24em;
+        height: 13em;        
+        padding: 10px;
+    }
+}
+@media (max-width: 576px){
+    .serviciosCard__Container{
+        background-color: #FFF;
+        border-radius: 10px;
+        width: 16em;
+        height: 18em;
+        color: #12156C;
+        padding: 20px;
+    }
+    
+    .serviciosCard__Container h1{
+        font-size: 20px;
+        font-weight: bold;
+    }
+    .serviciosCard__Container p{
+        font-size: 14px;
+        line-height: 14px;    
+    }
+    .serviciosCard__Container i{
+        font-size: 24px;
+    }
+}
