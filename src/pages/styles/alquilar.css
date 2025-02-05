@@ -1,3 +1,6 @@
+.alquilar__MainContainer{
+    padding-top: 80px;
+}
 .alquilar__Content-Container{
     display: flex;
     flex-direction: row;

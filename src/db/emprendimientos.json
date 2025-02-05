@@ -1,0 +1,132 @@
+{
+    "emprendimientos": [
+      {
+        "id": 1,
+        "nombre": "Residencias del Parque",
+        "tipo": "Departamento",
+        "ubicacion": "Buenos Aires, Argentina",
+        "descripcion": "Edificio en construcción con unidades a estrenar. Cuenta con amenities y excelente ubicación.",
+        "estado": "En construcción",
+        "unidadesDisponibles": 12,
+        "precioDesde": 120000,
+        "amenities": ["Piscina", "Gimnasio", "Salón de usos múltiples"],
+        "imagen": "/emprendimientos/Emp1-A.webp"
+      },
+      {
+        "id": 2,
+        "nombre": "Torre del Sol",
+        "tipo": "Departamento",
+        "ubicacion": "Rosario, Argentina",
+        "descripcion": "Edificio residencial terminado, con departamentos de 1 a 3 dormitorios.",
+        "estado": "Disponible",
+        "unidadesDisponibles": 8,
+        "precioDesde": 135000,
+        "amenities": ["Seguridad 24 horas", "Cocheras subterráneas", "Terraza"],
+        "imagen": "/emprendimientos/Emp2-A.webp"
+      },
+      {
+        "id": 3,
+        "nombre": "Barrio Loteos del Norte",
+        "tipo": "Loteo",
+        "ubicacion": "Córdoba, Argentina",
+        "descripcion": "Lotes urbanizados con todos los servicios disponibles y acceso a áreas recreativas.",
+        "estado": "Preventas disponibles",
+        "lotesDisponibles": 45,
+        "precioDesde": 35000,
+        "superficieLotePromedio": "500 m²",
+        "amenities": ["Club house", "Parque central", "Cancha de fútbol"],
+        "imagen": "/emprendimientos/Emp3-A.webp"
+      },
+      {
+        "id": 4,
+        "nombre": "Loteo San Rafael",
+        "tipo": "Loteo",
+        "ubicacion": "San Luis, Argentina",
+        "descripcion": "Lotes en entorno natural, ideal para viviendas de descanso o inversión.",
+        "estado": "Disponible",
+        "lotesDisponibles": 20,
+        "precioDesde": 40000,
+        "superficieLotePromedio": "800 m²",
+        "amenities": ["Seguridad privada", "Zona de senderismo", "Lago artificial"],
+        "imagen": "/emprendimientos/Emp4-A.webp"
+      },
+      {
+        "id": 5,
+        "nombre": "Estancia La Esperanza",
+        "tipo": "Agropecuario",
+        "ubicacion": "Santa Fe, Argentina",
+        "descripcion": "Establecimiento agropecuario con producción mixta de agricultura y ganadería.",
+        "estado": "Disponible",
+        "superficieTotal": "500 hectáreas",
+        "precioDesde": 1500000,
+        "actividades": ["Cultivo de soja", "Cría de ganado bovino"],
+        "infraestructura": ["Casa principal", "Galpones", "Corrales"],
+        "imagen": "/emprendimientos/Emp5-A.webp"
+      },
+      {
+        "id": 6,
+        "nombre": "Finca Los Olivos",
+        "tipo": "Agropecuario",
+        "ubicacion": "Mendoza, Argentina",
+        "descripcion": "Finca productora de olivos y vid, con viñedos en plena producción.",
+        "estado": "Disponible",
+        "superficieTotal": "300 hectáreas",
+        "precioDesde": 1800000,
+        "actividades": ["Producción de aceite de oliva", "Cultivo de uvas para vino"],
+        "infraestructura": ["Bodega", "Casa de huéspedes", "Depósitos"],
+        "imagen": "/emprendimientos/Emp6-A.webp"
+      },
+      {
+        "id": 7,
+        "nombre": "Condominio Vista al Mar",
+        "tipo": "Departamento",
+        "ubicacion": "Mar del Plata, Argentina",
+        "descripcion": "Departamentos de lujo con vista al mar, ideales para residencia o inversión.",
+        "estado": "Preventas disponibles",
+        "unidadesDisponibles": 10,
+        "precioDesde": 220000,
+        "amenities": ["Piscina climatizada", "Spa", "Estacionamiento privado"],
+        "imagen": "/emprendimientos/Emp7-A.webp"
+      },
+      {
+        "id": 8,
+        "nombre": "Barrio Ecológico Los Ceibos",
+        "tipo": "Loteo",
+        "ubicacion": "Entre Ríos, Argentina",
+        "descripcion": "Loteo ecológico con servicios sustentables y vistas a la naturaleza.",
+        "estado": "En desarrollo",
+        "lotesDisponibles": 30,
+        "precioDesde": 30000,
+        "superficieLotePromedio": "600 m²",
+        "amenities": ["Energía solar", "Huerta comunitaria", "Zona recreativa"],
+        "imagen": "/emprendimientos/Emp8-A.webp"
+      },
+      {
+        "id": 9,
+        "nombre": "Campo Las Palmas",
+        "tipo": "Agropecuario",
+        "ubicacion": "Corrientes, Argentina",
+        "descripcion": "Campo destinado a la producción de arroz, con riego y canalización.",
+        "estado": "En venta",
+        "superficieTotal": "600 hectáreas",
+        "precioDesde": 2000000,
+        "actividades": ["Cultivo de arroz", "Producción de forraje"],
+        "infraestructura": ["Silos de almacenamiento", "Sistemas de riego", "Casa para trabajadores"],
+        "imagen": "/emprendimientos/Emp9-A.webp"
+      },
+      {
+        "id": 10,
+        "nombre": "Finca Los Pinos",
+        "tipo": "Agropecuario",
+        "ubicacion": "Salta, Argentina",
+        "descripcion": "Finca con producción de frutas cítricas y hortalizas.",
+        "estado": "Disponible",
+        "superficieTotal": "450 hectáreas",
+        "precioDesde": 1700000,
+        "actividades": ["Cultivo de naranjas", "Producción de hortalizas"],
+        "infraestructura": ["Sistema de riego", "Depósitos", "Casas para empleados"],
+        "imagen": "/emprendimientos/Emp10-A.webp"
+      }
+    ]
+  }
+  

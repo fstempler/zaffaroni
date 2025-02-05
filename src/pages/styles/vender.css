@@ -1,0 +1,23 @@
+.vender__Hero-Container{    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    gap: 20px;
+}
+.vender__Hero-Container h1{
+    color: #12156C;
+    font-size: 64px;
+    font-weight: bold;
+}
+.vender__Cta-Container{
+    background-color: #12156C;    
+    border-radius: 50px;
+    border: solid 1px #AF1717;
+    padding: 10px 20px;
+}
+.vender__Cta-Container h2{    
+    color: #FFF;
+    font-size: 24px;    
+}

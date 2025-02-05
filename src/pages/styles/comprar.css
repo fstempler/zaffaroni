@@ -1,3 +1,6 @@
+.comprar__MainContainer{
+    padding-top: 80px;
+}
 .comprar__Content-Container{
     display: flex;
     flex-direction: row;

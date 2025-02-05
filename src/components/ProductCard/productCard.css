@@ -9,6 +9,9 @@
     color: #fff;
     width: fit-content;
 }
+.productCard__Title{
+    font-size: 20px;
+}
 .productCard__Content-Container{
     padding: 10px 0;
     display: flex;

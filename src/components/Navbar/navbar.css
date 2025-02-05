@@ -1,9 +1,14 @@
 .navbarLogo{
-    width: 40%;
+    width: 40%;    
 }
-.navbar__MainContainer{
+.navbar__MainContainer{    
     padding: 0 50px;
     background-color: #fff !important;
+    border-bottom: solid 1px #12156C;
+    border-radius: 0 0 10px 10px;
+    position: fixed;
+    z-index: 100;
+    width: 100%;
 }
 @media (max-width: 992px) {    
     .navbar-brand{
