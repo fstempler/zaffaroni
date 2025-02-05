@@ -1,7 +1,10 @@
+.emprendimientoLink{
+    width: auto;
+}
 .emprendimientosCard__Container{
     background-repeat: no-repeat;
     background-size: contain;
-    width: 40%;
+    width: 600px;
     height: 400px;    
     padding: 10px;
     display: flex;
@@ -9,6 +12,7 @@
     justify-content: space-between;
     color: #FFF;
     background-position: center;
+    border-radius: 10px;
 }
 .emprendimientosCard__Price-Container{
     display: flex;

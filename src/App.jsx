@@ -10,6 +10,7 @@ import Nosotros from './pages/Nosotros';
 import Vender from './pages/Vender';
 import Alquilar from './pages/Alquilar';
 import ProductDetailPage from './pages/ProductDetailPage';
+import EmprendimientoDetailPage from './pages/EmprendimientoDetailPage';
 //Components
 import Navbar from './components/Navbar/Navbar';
 import Footer from './components/Footer/Footer';
@@ -48,6 +49,7 @@ const routes = createBrowserRouter(
       <Route path="/nosotros" element={<Nosotros />} />
       <Route path="/vender" element={<Vender />} />
       <Route path="/producto/:id" element={<ProductDetailPage />} />
+      <Route path="/emprendimientos/:id" element={<EmprendimientoDetailPage />} />
     </Route>
   )
 );
