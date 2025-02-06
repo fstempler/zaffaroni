@@ -10,12 +10,13 @@ import TuCasa from '../components/TuCasa/TuCasa';
 import Tierras from '../components/Tierras/Tierras';
 import Tasaciones from '../components/Tasaciones/Tasaciones';
 const Home = () => {
+    const destacadosIds = ["1", "5", "7"];
     return (
         <>
         <div className='hero__MainContainer'>
             <Hero />
             <ActionNavbar />
-            <Destacadas />
+            <Destacadas productIds={destacadosIds}/>
             <Lisandro />
             <Soluciones />
             <TuCasa />
